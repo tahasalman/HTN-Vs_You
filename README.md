@@ -1,5 +1,7 @@
 # HTN-Vs_You
 
+![Alt text](GameScreenshot.PNG?raw=true "Game Screenshot")
+
 ## Brief Description
 This is a simple 3D game that I created using the Unity Platform. Currently it only has one simple level where the player must compete against 
 an AI agent to collect all the items in the alcoves of the maze.
@@ -13,6 +15,3 @@ The agent uses a Hierarchical Task Network (HTN) to plan and execute its moves. 
 The player controlled-character is green and can be moved around with the arrow keys on your keyboard. To teleport you must press the spacebar.
 
 ## Have Fun!
-
-
-![Alt text](GameScreenshot.PNG?raw=true "Game Screenshot")
