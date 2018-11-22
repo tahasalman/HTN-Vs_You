@@ -15,4 +15,4 @@ The player controlled-character is green and can be moved around with the arrow 
 ## Have Fun!
 
 
-![alt text](https://raw.githubusercontent.com/tahasalman/HTN-Vs_You/master/GameScreenshot.png)
+![Alt text](GameScreenshot.PNG?raw=true "Game Screenshot")
